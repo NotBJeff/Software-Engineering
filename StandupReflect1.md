@@ -1,11 +1,3 @@
-## In the self-reflection, you are to periodically comment on these areas:
-
-- Your individual contributions during the prior sprint
-- Your planned individual contributions during the upcoming sprint
-- Any technical challenges that you face that are preventing you from achieving your planned contributions to the group
-- Any areas for personal and professional development that would better enable you to meet your planned contributions on-schedule
-- Provide a screenshot of your Gantt chart tasks and the current state of those tasks. If the Gantt chart does not already assign a point person to each task, indicate that on your reflection report here.
-- Your discussion of prior and planned individual contributions should align with the project plan and Gantt chart. They should be generally on-schedule, or a group-led revision to the schedule should take place and be documented. In addition, these contributions should not overlap with the claimed contributions of others. In other words, you should comment on what, specifically, you accomplished during the past sprint (and what you plan to accomplish during the upcoming sprint).
-
 ## Reflection 1
  
+Within the previous week, my main goal has been understanding what our software is going to act like and how we can go about creating it. I've done some scattered, independent research about what makes a synthesizer a synthesizer. I'm looking for somewhere to start (code wise) and understanding the parts that make a synthesizer (oscillators, amplifiers, filters, etc.) has helped find that. This upcoming week, I want to start develloping oscillators in Python to have a basis for wave creation. There are many parts that make up a synthesizer but this will be a good foundation for it. The only technical issues I feel that I would encounter are in relation to Python, like the packages and libraries we use. The code we plan to create will be heavly math-based. I do not have a Gantt chart currenty, rather the rough timeline in the project proposal. I think that generally, when it comes to improvement that could benefit me, I could take more time out of days to spend collaborating with my groupmates. Learning to collaborate more could be something beneficial to not just me but my group, as I am very independent with my school work in general.
