@@ -1,7 +1,4 @@
+## Standup Reflection 3 / 03/05/26
 
+During this sprint, I have started and experimented with keyboard and audio funtionality within Python. While not finished, I think that it is a good start. I plan to work with my group to finish these functionalities, potentially start another section of code. I want to spend more time actually coding for the project.
 
-Your individual contributions during the prior sprint
-Your planned individual contributions during the upcoming sprint
-Any technical challenges that you face that are preventing you from achieving your planned contributions to the group
-Any areas for personal and professional development that would better enable you to meet your planned contributions on-schedule
-Provide a screenshot of your Gantt chart tasks and the current state of those tasks. If the Gantt chart does not already assign a point person to each task, indicate that on your reflection report here.
